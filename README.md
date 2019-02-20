@@ -4,7 +4,7 @@ for updates, or [StackOverflow](http://stackoverflow.com/questions/ask) or the [
 ## FREE high-perf Text Serializers and Core Utils powering [servicestack.net](https://servicestack.net)
 
 ServiceStack.Text is an **independent, dependency-free** serialization library containing ServiceStack's core high-performance utils and text processing functionality, including:
-
+xx
  - [JSON](https://github.com/ServiceStack/ServiceStack.Text), 
  [JSV](http://docs.servicestack.net/jsv-format) and 
  [CSV](http://docs.servicestack.net/csv-format) Text Serializers
